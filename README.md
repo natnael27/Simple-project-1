@@ -1,4 +1,4 @@
-# SIMPLE JAVA PROJECT
+# Using abstraction concept on superclass in java
 This code splits the Employee and Main classes into separate files, Employee.java and Main.java respectively. 
 You can compile and run the Main.java file to execute the program.
 
